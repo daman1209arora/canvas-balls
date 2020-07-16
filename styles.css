@@ -5,3 +5,35 @@
 #game-canvas {
     background-color: green;
 }
+.button-div{
+    text-align: center;
+}
+.circle-button{
+    background-color: yellow;
+    border-radius: 40%;
+}
+.circle-button h1{
+    font-size:20px;
+    font-weight: 1000;
+    font-family: 'Rowdies', cursive;
+    color:black;
+}
+.stop-button{
+    background-color:red;
+}
+.stop-button h1{
+    font-family: 'Rowdies', cursive;
+    color:yellow;
+}
+body{
+    background:url("https://lh3.googleusercontent.com/proxy/3s1Lxb887Yv4rwTYDj-DsUfqpyS0sutaQvrMlHg1XpE818w8vgflRgrbq_ufmlmKbEFrLw678BBIHecjuE2Iq3AoB73cST5OhQIk3bvapmM") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+img{
+    width:100%;
+}
+.main-heading{
+    color:orange;
+}
