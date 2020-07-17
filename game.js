@@ -6,8 +6,8 @@ var cy=200;
 var width=400;
 var height=400;
 var radius=10;
-var vx=2;
-var vy=3;
+var vx=5;
+var vy=7;
 function init() {
     canvas=document.getElementById("game-canvas");
     context=canvas.getContext("2d");
